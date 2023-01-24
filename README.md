@@ -7,7 +7,7 @@ Digital marketing campaigns, segmentation and personalization have evolved drama
 ## Step 1 
 We explore and visualize Conversion Rate by Education, Marital status, Job and Campaign. We also determine the overall conversion rate (11.70%)
 ## Step 2
-To prep the data for Machine learning, we preprocess & encode non-numerical columns using Pandas and Scikit learn and drop featuers that have high 
+To prep the data for Machine learning, we preprocess & encode non-numerical columns using Pandas and Scikit learn and drop featuers that have high correlation
 ## Step 3
 Fit the decision trees with Max Depth 4
 ## Step 4 
